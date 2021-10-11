@@ -1,4 +1,4 @@
-# How-to-automat-zoom
+# Internet-of-Things
 
 Contributors: 
 Shivyanshi shukla,
